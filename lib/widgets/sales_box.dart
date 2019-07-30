@@ -3,7 +3,7 @@ import 'package:flutter_trip/model/common_model.dart';
 import 'package:flutter_trip/model/sales_box_model.dart';
 import 'package:flutter_trip/widgets/webview.dart';
 
-//底部卡片入口
+///底部卡片入口
 class SalesBox extends StatelessWidget {
   final SalesBoxModel salesBox;
 
