@@ -152,6 +152,7 @@ class _SearchPageState extends State<SearchPage> {
                 height: 26,
                 width: 26,
                 image: AssetImage(
+                  //搜索结果图片
                   _typeImage(item.type),
                 ),
               ),
@@ -159,7 +160,7 @@ class _SearchPageState extends State<SearchPage> {
             Column(
               children: <Widget>[
                 Container(
-                  width: 300,
+                  width: 330,
                   child: _title(item),
                 ),
                 Container(
@@ -175,7 +176,7 @@ class _SearchPageState extends State<SearchPage> {
     );
   }
 
-  ///根据类型显示图片
+  ///搜索结果图片
   _typeImage(String type) {
     if (type == null) return 'images/type_travelgroup.png';
     String path = "travelgroup";
@@ -188,6 +189,7 @@ class _SearchPageState extends State<SearchPage> {
     return 'images/type_$path.png';
   }
 
+  ///搜索标题
   _title(SearchItem item) {
     if (item == null) return null;
     List<TextSpan> spans = [];
@@ -201,6 +203,7 @@ class _SearchPageState extends State<SearchPage> {
     return RichText(text: TextSpan(children: spans));
   }
 
+  ///搜索副标题
   _subTitle(SearchItem item) {
     if (item == null) return null;
     return RichText(
@@ -210,13 +213,14 @@ class _SearchPageState extends State<SearchPage> {
           style: TextStyle(fontSize: 16, color: Colors.orange),
         ),
         TextSpan(
-          text: ' ' + item.star ?? '',
+          text: ' ' + item.type ?? '',
           style: TextStyle(fontSize: 12, color: Colors.grey),
         ),
       ]),
     );
   }
 
+  ///关键字高亮处理
   _keywordTextSpans(String word, String keyword) {
     List<TextSpan> spans = [];
     if (word == null || word.length == 0) return spans;

@@ -241,5 +241,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
+  ///跳转语音识别页面
   _jumpToSpeak() {}
 }
