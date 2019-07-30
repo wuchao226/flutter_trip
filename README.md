@@ -1,8 +1,10 @@
 # flutter_trip
 
 A new Flutter application.
-## 首页效果图
-![首页](https://github.com/wuchao226/flutter_trip/blob/master/images/preview_home.gif)
+## 首页模块效果图
+![首页](https://github.com/wuchao226/flutter_trip/blob/master/image_gif/preview_home.gif)
+## 搜索模块效果图
+![首页](https://github.com/wuchao226/flutter_trip/blob/master/image_gif/preview_search.gif)
 
 ## 相关文档
 - [Flutter - JSON解析与复杂模型转换实用技巧](https://www.jianshu.com/p/453c3ee28540)
