@@ -12,6 +12,7 @@ A new Flutter application.
 - [Flutter Form 表单和输入框](https://www.jianshu.com/p/bbea2f1f9e81)
 - [Flutter 图片组件（Image、Icon）](https://www.jianshu.com/p/eac526983fe3)
 - [Flutter 容器组件（Container）](https://www.jianshu.com/p/71e1f75a22c0)
+- [Flutter 动画（Animation）](https://www.jianshu.com/p/a5d44899e805)
 
 ## 使用的三方库
 - 轮播Banner插件应用：flutter_swiper : ^1.1.6  ->  https://pub.dev/packages/flutter_swiper
