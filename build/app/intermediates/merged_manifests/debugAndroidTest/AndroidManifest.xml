@@ -3,7 +3,7 @@
     package="com.wuc.flutter.trip.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="29" />
 
     <instrumentation

@@ -3,7 +3,7 @@
     package="com.wuc.flutter.plugin.asr.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="29" />
 
     <instrumentation
@@ -13,20 +13,16 @@
         android:label="Tests for com.wuc.flutter.plugin.asr.test"
         android:targetPackage="com.wuc.flutter.plugin.asr.test" />
 
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
-
-        <service
-            android:name="com.baidu.speech.VoiceRecognitionService"
-            android:exported="false" />
 
         <meta-data
             android:name="com.baidu.speech.APP_ID"
@@ -37,6 +33,10 @@
         <meta-data
             android:name="com.baidu.speech.SECRET_KEY"
             android:value="l1YEafBCjygRGjjWFufOAqDz9z136P7e" />
+
+        <service
+            android:name="com.baidu.speech.VoiceRecognitionService"
+            android:exported="false" />
 
         <provider
             android:name="androidx.core.content.FileProvider"

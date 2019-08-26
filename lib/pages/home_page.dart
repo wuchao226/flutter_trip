@@ -8,6 +8,7 @@ import 'package:flutter_trip/model/grid_nav_model.dart';
 import 'package:flutter_trip/model/home_model.dart';
 import 'package:flutter_trip/model/sales_box_model.dart';
 import 'package:flutter_trip/pages/search_page.dart';
+import 'package:flutter_trip/pages/speak_page.dart';
 import 'package:flutter_trip/widgets/grid_nav.dart';
 import 'package:flutter_trip/widgets/loading_container.dart';
 import 'package:flutter_trip/widgets/local_nav.dart';
@@ -235,12 +236,15 @@ class _HomePageState extends State<HomePage> {
       context,
       MaterialPageRoute(
         builder: (context) => SearchPage(
-              hint: SEARCH_BAR_DEFAULT_TEXT,
-            ),
+          hint: SEARCH_BAR_DEFAULT_TEXT,
+        ),
       ),
     );
   }
 
   ///跳转语音识别页面
-  _jumpToSpeak() {}
+  _jumpToSpeak() {
+    Navigator.push(
+        context, MaterialPageRoute(builder: (context) => SpeakPage()));
+  }
 }
