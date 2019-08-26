@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/7a97ba51108ff816419a1b3ec97ed86f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/3851357f2f55af5447a7279ca81dfb40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e4b3e7ca35ae9219e5a6692eb987db0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/b1d95e4acaf4b99f3e069a0faea2b3de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/2db61d5db965027ef4faf69d8d45362b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/998694157449b357d7af6bed397dce91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/bbb09c3feb3acf21df56ea84c74d566f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/ded665a7f28eab71368f35b170f759ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/4238704d61408ea60b6e67c7264c442b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/9d6d7ddc2a78c503db23c1927f8b5bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/98bb69d31e780bc6a04af3b765053134/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/332bef83e715b353e880610ecc260cde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/315817e6420021076d8db9fc57d30923/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a9aabaa57ba13f68682c32649b448bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/efd2cc9cdea2ce8c9b157717f0799d0e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/6396bfe3c7ba45a0df2b1710156fe30a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a4eb9e570a119986988d80fe851077b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/5f6c52702a7fba465cfb6c9f73467f79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/492552480d9700ddcf0e871bc6b6abf6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/73a84774406a0389ce66ed40abac8ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e82c4511182befe03b41238a80f62b0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/0cf6da5bbd4033bdf4a5791116332694/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/232c4ed1b464c1be86e0f1f9de09b3c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e37657d7209233323a7717ca2f1f8867/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/09ac40bc83b21a61017e4bc0727a3ebb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:11:5-35:19
+MERGED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/efd2cc9cdea2ce8c9b157717f0799d0e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/efd2cc9cdea2ce8c9b157717f0799d0e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:13:9-37
+	android:icon
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#com.wuc.flutter.trip.MainActivity
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:15:9-34:20
+	android:launchMode
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:16:13-61
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:26:13-28:40
+	android:value
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:28:17-37
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:27:17-82
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:30:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/7a97ba51108ff816419a1b3ec97ed86f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/7a97ba51108ff816419a1b3ec97ed86f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/3851357f2f55af5447a7279ca81dfb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/3851357f2f55af5447a7279ca81dfb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e4b3e7ca35ae9219e5a6692eb987db0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e4b3e7ca35ae9219e5a6692eb987db0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/b1d95e4acaf4b99f3e069a0faea2b3de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/b1d95e4acaf4b99f3e069a0faea2b3de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/2db61d5db965027ef4faf69d8d45362b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/2db61d5db965027ef4faf69d8d45362b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/998694157449b357d7af6bed397dce91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/998694157449b357d7af6bed397dce91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/bbb09c3feb3acf21df56ea84c74d566f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/bbb09c3feb3acf21df56ea84c74d566f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/ded665a7f28eab71368f35b170f759ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/ded665a7f28eab71368f35b170f759ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/4238704d61408ea60b6e67c7264c442b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/4238704d61408ea60b6e67c7264c442b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/9d6d7ddc2a78c503db23c1927f8b5bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/9d6d7ddc2a78c503db23c1927f8b5bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/98bb69d31e780bc6a04af3b765053134/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/98bb69d31e780bc6a04af3b765053134/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/332bef83e715b353e880610ecc260cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/332bef83e715b353e880610ecc260cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/315817e6420021076d8db9fc57d30923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/315817e6420021076d8db9fc57d30923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a9aabaa57ba13f68682c32649b448bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a9aabaa57ba13f68682c32649b448bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/f254849982e7836ff257d9a6cdfa32d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/efd2cc9cdea2ce8c9b157717f0799d0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/efd2cc9cdea2ce8c9b157717f0799d0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/6396bfe3c7ba45a0df2b1710156fe30a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/6396bfe3c7ba45a0df2b1710156fe30a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a4eb9e570a119986988d80fe851077b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/a4eb9e570a119986988d80fe851077b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/5f6c52702a7fba465cfb6c9f73467f79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/5f6c52702a7fba465cfb6c9f73467f79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/492552480d9700ddcf0e871bc6b6abf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/492552480d9700ddcf0e871bc6b6abf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/73a84774406a0389ce66ed40abac8ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/73a84774406a0389ce66ed40abac8ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e82c4511182befe03b41238a80f62b0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e82c4511182befe03b41238a80f62b0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/0cf6da5bbd4033bdf4a5791116332694/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/0cf6da5bbd4033bdf4a5791116332694/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/232c4ed1b464c1be86e0f1f9de09b3c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/232c4ed1b464c1be86e0f1f9de09b3c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e37657d7209233323a7717ca2f1f8867/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/e37657d7209233323a7717ca2f1f8867/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/09ac40bc83b21a61017e4bc0727a3ebb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuchao/.gradle/caches/transforms-2/files-2.1/09ac40bc83b21a61017e4bc0727a3ebb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/app/src/debug/AndroidManifest.xml:6:22-64
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/wuchao/flutterProject/flutter_trip/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-78
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-68
+meta-data#com.baidu.speech.APP_ID
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-30:64
+	android:value
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-61
+	android:name
+		ADDED from [:asr_plugin] /Users/wuchao/flutterProject/flutter_trip/build/asr_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-55

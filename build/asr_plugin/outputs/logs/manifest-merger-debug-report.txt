@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:2:11-47
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:4:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:10:5-26:19
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:13:13-68
+meta-data#com.baidu.speech.APP_ID
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:16:9-18:39
+	android:value
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:17:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:19:9-21:55
+	android:value
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:21:13-53
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:20:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:22:9-24:63
+	android:value
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:24:13-61
+	android:name
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml:23:13-55
+uses-sdk
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuchao/flutterProject/flutter_trip/android/asr_plugin/src/main/AndroidManifest.xml

@@ -1,0 +1,25 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+TravelModel _$TravelModelFromJson(Map<String, dynamic> json) {
+  return TravelModel(
+      url: json['url'] as String,
+      tabs: (json['tabs'] as List)
+          .map((e) => TravelTab.fromJson(e as Map<String, dynamic>))
+          .toList());
+}
+
+Map<String, dynamic> _$TravelModelToJson(TravelModel instance) =>
+    <String, dynamic>{'url': instance.url, 'tabs': instance.tabs};
+
+TravelTab _$TravelTabFromJson(Map<String, dynamic> json) {
+  return TravelTab(
+      labelName: json['labelName'] as String,
+      channelCode: json['channelCode'] as String);
+}
+
+Map<String, dynamic> _$TravelTabToJson(TravelTab instance) => <String, dynamic>{
+      'labelName': instance.labelName,
+      'channelCode': instance.channelCode
+    };
