@@ -20,8 +20,6 @@ const TYPES = [
   'ticket',
   'travelgroup',
 ];
-const SEARCH_URL =
-    'https://m.ctrip.com/restapi/h5api/searchapp/search?source=mobileweb&action=autocomplete&contentType=json&keyword=';
 
 ///搜索页
 class SearchPage extends StatefulWidget {
@@ -30,6 +28,8 @@ class SearchPage extends StatefulWidget {
 
   //搜索url
   final String searchUrl;
+
+  //搜索关键字
   final String keyword;
 
   //提示文案
@@ -90,8 +90,8 @@ class _SearchPageState extends State<SearchPage> {
       });
       return;
     }
-    String url = widget.searchUrl + text;
-    SearchDao.fetch(url, text).then((SearchModel model) {
+    //String url = widget.searchUrl + text;
+    SearchDao.fetch(text).then((SearchModel model) {
       //只有当当前输入的内容和服务端返回的内容一致时才渲染
       if (model.keyword == keyword) {
         setState(() {
