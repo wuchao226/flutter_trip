@@ -23,3 +23,4 @@ A new Flutter application.
 - 网络请求插件应用：http: ^0.12.0+2  ->  https://pub.dev/packages/http
 - WebView 插件应用：flutter_webview_plugin: ^0.3.5  ->  https://pub.dev/packages/flutter_webview_plugin
 - 瀑布流布局 插件应用：flutter_staggered_grid_view -> https://pub.dev/packages/flutter_staggered_grid_view
+- 欢迎页  插件应用： flutter_splash_screen: ^0.1.0 -> https://pub.dev/packages/flutter_splash_screen
