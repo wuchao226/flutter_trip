@@ -6,43 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb7a145c-680a-4bb0-be2d-1a4c0193a268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/dao/travel_dao.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/dao/travel_tab_dao.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/travel_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/travel_tab_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/travel_tab_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/asr_plugin/src/androidTest/java/com/wuc/flutter/plugin/asr/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/asr_plugin/src/androidTest/java/com/wuc/flutter/plugin/asr/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.track.dill.incremental.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app.dill.track.dill.incremental.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/p8H3y_h91_A_gFGgvXFAm3giLgw=" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/p8H3y_h91_A_gFGgvXFAm3giLgw=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/uPJv5oKw2cxfiYi8ai_9zVU4sCE=" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/uPJv5oKw2cxfiYi8ai_9zVU4sCE=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/libs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/libs.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/library_and_local_jars_jni/debug/arm64-v8a/libflutter.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/library_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/library_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asr_plugin/outputs/aar/asr_plugin-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/outputs/aar/asr_plugin-debug.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dao/search_dao.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dao/search_dao.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/navigator/tab_navigator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/navigator/tab_navigator.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/my_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/my_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/search_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/search_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/travel_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/travel_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/android-x86/flutter_assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/flutter/debug/android-x86/flutter_assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asr_plugin/intermediates/library_assets/debug/out/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/asr_plugin/intermediates/library_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -79,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/pages/travel_tab_page.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+            <state relative-caret-position="122">
+              <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -92,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/lib/pages/home_page.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-618">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -190,6 +157,11 @@
             <path>
               <item name="flutter_trip" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_trip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_trip" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="image_gif" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flutter_trip" type="b2602c69:ProjectViewProjectNode" />
@@ -340,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566805333583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="旅拍页面功能及我的页面">
+      <created>1567075426126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567075426126</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -355,7 +334,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.16801292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.16801292" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +344,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" sideWeight="0.5013624" side_tool="true" weight="0.1558966" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3284553" />
-      <window_info active="true" anchor="bottom" id="Run" order="1" sideWeight="0.49919224" visible="true" weight="0.18699187" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49919224" visible="true" weight="0.27642277" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49919224" weight="0.4715447" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.5593496" />
@@ -431,7 +410,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'master' of github.com:wuchao226/flutter_trip&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
     <MESSAGE value="智能语音搜索" />
-    <option name="LAST_COMMIT_MESSAGE" value="智能语音搜索" />
+    <MESSAGE value="旅拍页面功能及我的页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="旅拍页面功能及我的页面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -804,7 +784,7 @@
     <entry file="file://$PROJECT_DIR$/lib/pages/home_page.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-618">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -820,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/pages/travel_tab_page.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+        <state relative-caret-position="122">
+          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
